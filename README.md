@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Hemant Devkar Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/hemantanildevkar-gif/hemantanildevkar-gif/main/banner.png" alt="Hemant Devkar Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Hemant Devkar</h1>
