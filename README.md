@@ -100,16 +100,38 @@ Python • Flask • MongoDB • XGBoost • Android • REST API
 
 ---
 
-# 🔥 GitHub Streak
+# 🎯 Current Focus
 
-<p align="center">
+<table>
+<tr>
+<td>
 
-<img src="https://streak-stats.demolab.com?user=hemantanildevkar-gif&theme=tokyonight&hide_border=true"/>
+✅ Building AI-powered software
 
-</p>
+✅ Backend Development with Flask
 
+✅ Machine Learning using Python
+
+✅ Android Application Development
+
+✅ REST API Development
+
+</td>
+
+<td>
+
+🚀 Open to Software Engineer Opportunities
+
+📚 Learning Advanced Backend Development
+
+💻 Writing Clean & Maintainable Code
+
+🎯 Solving Real-World Problems
+
+</td>
+</tr>
+</table>
 ---
-
 # 📫 Connect With Me
 
 📧 Email : hemantanildevkar@gmail.com
