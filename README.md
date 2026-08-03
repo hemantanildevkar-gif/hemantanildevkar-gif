@@ -87,19 +87,6 @@ An AI-powered admission counselling platform developed to assist students during
 Python • Flask • MongoDB • XGBoost • Android • REST API
 
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hemantanildevkar-gif&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantanildevkar-gif&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🎯 Current Focus
 
 <table>
