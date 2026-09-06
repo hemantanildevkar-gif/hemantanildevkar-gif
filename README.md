@@ -21,7 +21,7 @@ Passionate about building AI-powered software that solves real-world problems.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/hemantanildevkar-gif">
+<a href="https://github.com/hemantdevkar-gif">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
